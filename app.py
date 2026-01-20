@@ -49,7 +49,7 @@ if "current_q" not in st.session_state:
     st.session_state.show_result = False
 
 st.markdown("<div class='heart'>💗</div>", unsafe_allow_html=True)
-st.title("How Well Do You Know My Heart, Sayang?")
+st.title("How Well Do You Know Me, Sayang?")
 
 # QUESTION FLOW
 if st.session_state.current_q < len(questions):
