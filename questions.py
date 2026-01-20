@@ -2,36 +2,36 @@ questions = [
     {
         "id": 1,
         "question": "Where was our very first date, sayang?",
-        "options": ["Starbucks", "Mall", "Amazon Cafe ☕", "Beach"],
-        "correct": "Amazon Cafe ☕",
+        "options": ["Starbucks", "Mall", "Amazon Cafe", "Beach"],
+        "correct": "Amazon Cafe",
         "weight": 5
     },
     {
         "id": 2,
         "question": "What part of you makes me fall in love every time I hear it?",
-        "options": ["Your laugh", "Your voice 🎶", "Your eyes", "Your smile"],
-        "correct": "Your voice 🎶",
+        "options": ["Your laugh", "Your voice", "Your eyes", "Your smile"],
+        "correct": "Your voice",
         "weight": 4
     },
     {
         "id": 3,
         "question": "Why did I choose you as my partner, sayang?",
-        "options": ["You're pretty", "You're fun", "You make me feel peaceful and calm 🕊️", "You're popular"],
-        "correct": "You make me feel peaceful and calm 🕊️",
+        "options": ["You're pretty", "You're fun", "You make me feel peaceful and calm", "You're popular"],
+        "correct": "You make me feel peaceful and calm",
         "weight": 5
     },
     {
         "id": 4,
         "question": "What side of me always makes you 'geram' in a cute way?",
-        "options": ["My jealousy", "My silence", "My childishness 😝", "My seriousness"],
-        "correct": "My childishness 😝",
+        "options": ["My jealousy", "My silence", "My childishness", "My seriousness"],
+        "correct": "My childishness",
         "weight": 3
     },
     {
         "id": 5,
         "question": "When I overthink at night, what do I need most from you?",
-        "options": ["Space", "Teasing", "Your voice & reassurance 📞", "Gifts"],
-        "correct": "Your voice & reassurance 📞",
+        "options": ["Space", "Teasing", "Your voice & reassurance", "Gifts"],
+        "correct": "Your voice & reassurance",
         "weight": 3
     },
     {
@@ -44,36 +44,36 @@ questions = [
     {
         "id": 7,
         "question": "What makes me instantly happy, sayang?",
-        "options": ["Compliments", "Food", "Your full attention 👀❤️", "Sleep"],
-        "correct": "Your full attention 👀❤️",
+        "options": ["Compliments", "Food", "Your full attention", "Sleep"],
+        "correct": "Your full attention",
         "weight": 3
     },
     {
         "id": 8,
         "question": "What hurts me the most in a relationship?",
-        "options": ["Late replies", "Being busy", "No attention", "Cheating 💔"],
-        "correct": "Cheating 💔",
+        "options": ["Late replies", "Being busy", "No attention", "Cheating"],
+        "correct": "Cheating",
         "weight": 4
     },
     {
         "id": 9,
         "question": "Which place makes me feel most romantic with you?",
-        "options": ["Mall", "Cinema", "Beach 🌊", "Highway"],
-        "correct": "Beach 🌊",
+        "options": ["Mall", "Cinema", "Beach", "Highway"],
+        "correct": "Beach",
         "weight": 2
     },
     {
         "id": 10,
         "question": "My favourite type of date with you is…",
-        "options": ["Movie night", "Dinner", "Staycation 🏨", "Shopping"],
-        "correct": "Staycation 🏨",
+        "options": ["Movie night", "Dinner", "Staycation", "Shopping"],
+        "correct": "Staycation",
         "weight": 2
     },
     {
         "id": 11,
         "question": "Which food do I love the most?",
-        "options": ["Nasi Goreng", "Tomyam", "Ayam Masak Lemak 🍗", "Burger"],
-        "correct": "Ayam Masak Lemak 🍗",
+        "options": ["Nasi Goreng", "Tomyam", "Ayam Masak Lemak", "Burger"],
+        "correct": "Ayam Masak Lemak",
         "weight": 2
     },
     {
@@ -86,22 +86,22 @@ questions = [
     {
         "id": 13,
         "question": "My favourite colour combination?",
-        "options": ["Blue & White", "Red & Black", "Black & White 🖤🤍", "Pink & Purple"],
-        "correct": "Black & White 🖤🤍",
+        "options": ["Blue & White", "Red & Black", "Black & White", "Pink & Purple"],
+        "correct": "Black & White",
         "weight": 1
     },
     {
         "id": 14,
         "question": "My favourite singer?",
-        "options": ["Faizal Tahir", "Anuar Zain 🎤", "Hafiz", "Bruno Mars"],
-        "correct": "Anuar Zain 🎤",
+        "options": ["Faizal Tahir", "Anuar Zain", "Hafiz", "Bruno Mars"],
+        "correct": "Anuar Zain",
         "weight": 1
     },
     {
         "id": 15,
         "question": "My favourite series?",
-        "options": ["Money Heist", "Prison Break", "Hawaii 5-O 🌴", "Friends"],
-        "correct": "Hawaii 5-O 🌴",
+        "options": ["Money Heist", "Prison Break", "Hawaii 5-O", "Friends"],
+        "correct": "Hawaii 5-O",
         "weight": 1
     },
     {
