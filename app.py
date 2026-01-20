@@ -51,6 +51,7 @@ if "current_q" not in st.session_state:
 st.markdown("<div class='heart'>💗</div>", unsafe_allow_html=True)
 st.title("How Well Do You Know My Heart, Sayang?")
 
+# QUESTION FLOW
 if st.session_state.current_q < len(questions):
     q = questions[st.session_state.current_q]
     st.progress((st.session_state.current_q + 1) / len(questions))
@@ -66,16 +67,18 @@ if st.session_state.current_q < len(questions):
         if choice == q["correct"]:
             st.session_state.score += q["weight"] * POINT_PER_HEART
         st.session_state.current_q += 1
-        st.experimental_rerun()
+        st.rerun()
 
+# CALCULATING SCREEN
 elif not st.session_state.show_result:
     st.markdown("<div class='heart'>💘</div>", unsafe_allow_html=True)
     st.markdown("<div class='result'>Calculating how deep your love goes…</div>", unsafe_allow_html=True)
     st.markdown("<div class='subtitle'>Please wait, sayang 💕</div>", unsafe_allow_html=True)
     time.sleep(2)
     st.session_state.show_result = True
-    st.experimental_rerun()
+    st.rerun()
 
+# RESULT SCREEN
 else:
     percent = round((st.session_state.score / TOTAL_SCORE) * 100)
 
@@ -101,4 +104,4 @@ else:
         st.session_state.current_q = 0
         st.session_state.score = 0
         st.session_state.show_result = False
-        st.experimental_rerun()
+        st.rerun()
