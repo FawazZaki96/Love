@@ -107,71 +107,71 @@ questions = [
     {
         "id": 16,
         "question": "When I plan an unexpected trip, why do I do it?",
-        "options": ["Bored", "For photos", "To spend quality time with you ❤️", "Just driving"],
-        "correct": "To spend quality time with you ❤️",
+        "options": ["Bored", "For photos", "To spend quality time with you", "Just driving"],
+        "correct": "To spend quality time with you",
         "weight": 3
     },
     {
         "id": 17,
         "question": "When I’m quiet, what should you do first?",
-        "options": ["Leave me", "Scold me", "Hug & talk to me 🤍", "Ignore"],
-        "correct": "Hug & talk to me 🤍",
+        "options": ["Leave me", "Scold me", "Hug & talk to me", "Ignore"],
+        "correct": "Hug & talk to me",
         "weight": 3
     },
     {
         "id": 18,
         "question": "Which love language is most important to me?",
-        "options": ["Gifts", "Words", "Physical Touch 🤍", "Acts of Service"],
-        "correct": "Physical Touch 🤍",
+        "options": ["Gifts", "Words", "Physical Touch", "Acts of Service"],
+        "correct": "Physical Touch",
         "weight": 3
     },
     {
         "id": 19,
         "question": "What makes me feel most loved by you?",
-        "options": ["Long text", "Surprise gift", "Spending time together 🕰️", "Posting online"],
-        "correct": "Spending time together 🕰️",
+        "options": ["Long text", "Surprise gift", "Spending time together", "Posting online"],
+        "correct": "Spending time together",
         "weight": 2
     },
     {
         "id": 20,
         "question": "When I miss you, what do I usually want?",
-        "options": ["Food", "Sleep", "Your voice", "Your presence & hug 🤗"],
-        "correct": "Your presence & hug 🤗",
+        "options": ["Food", "Sleep", "Your voice", "Your presence & hug"],
+        "correct": "Your presence & hug",
         "weight": 2
     },
     {
         "id": 21,
         "question": "Which side of me do you see the most?",
-        "options": ["Serious", "Angry", "Romantic", "Playful & teasing 😘"],
-        "correct": "Playful & teasing 😘",
+        "options": ["Serious", "Angry", "Romantic", "Playful & teasing"],
+        "correct": "Playful & teasing",
         "weight": 2
     },
     {
         "id": 22,
         "question": "What calms me down the fastest?",
-        "options": ["Music", "Being alone", "Talking to you", "Your touch & voice ❤️"],
-        "correct": "Your touch & voice ❤️",
+        "options": ["Music", "Being alone", "Talking to you", "Your touch & voice"],
+        "correct": "Your touch & voice",
         "weight": 2
     },
     {
         "id": 23,
         "question": "What am I most sensitive about?",
-        "options": ["Money", "Family", "Loyalty & trust 🔒", "Work"],
-        "correct": "Loyalty & trust 🔒",
+        "options": ["Money", "Family", "Loyalty & trust", "Work"],
+        "correct": "Loyalty & trust",
         "weight": 2
     },
     {
         "id": 24,
         "question": "When I say 'I love you', what do I really mean?",
-        "options": ["Habit", "Sweet words", "I choose you and only you 💕", "Just emotion"],
-        "correct": "I choose you and only you 💕",
+        "options": ["Habit", "Sweet words", "I choose you and only you", "Just emotion"],
+        "correct": "I choose you and only you",
         "weight": 3
     },
     {
         "id": 25,
         "question": "When I look at you and smile quietly, what am I usually feeling inside?",
-        "options": ["Thinking of something else", "Tired", "Safe, loved, and at peace with you 🕊️❤️", "Just being polite"],
-        "correct": "Safe, loved, and at peace with you 🕊️❤️",
+        "options": ["Thinking of something else", "Tired", "Safe, loved, and at peace with you", "Just being polite"],
+        "correct": "Safe, loved, and at peace with you",
         "weight": 5
     }
 ]
