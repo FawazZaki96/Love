@@ -28,7 +28,7 @@ body {
 }
 .result {
     font-size: 30px;
-    color: #d6336c;
+    color: #f5edf3;
     font-weight: bold;
     text-align: center;
 }
@@ -38,7 +38,7 @@ body {
     color: #555;
 }
 .wrong {
-    background-color: #fff0f3;
+    background-color: #010800;
     padding: 12px;
     border-radius: 12px;
     margin-bottom: 10px;
